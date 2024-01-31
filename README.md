@@ -1,8 +1,9 @@
-- 👋 Hi, I'm Amalia Konstantinidou, female, 30 years old & living in Germany.
-- 👀 I'm interested in a career change, from self-employed shop owner to web development.
-- 🌱 I am currently learning everything I can to reach my goal.
-- 💞️ I am looking for a collaboration where I can learn and gain experience.
-- 📫 How to reach me? You can reach me by email: amalia_k@gmx.de
+👋 Hi, I'm Amalia Konstantinidou, a female in my 30s living in Germany.
+👀 I'm passionate about transitioning from being a self-employed shop owner to pursuing a career in web development.
+🌱 Currently, I'm dedicated to learning everything I can to achieve my goal and expand my skill set.
+💼 I bring a blend of creativity and a strong will to learn.
+💞️ I'm eager to collaborate with others in the web development community to learn and gain experience.
+📫 Want to get in touch? Feel free to reach out to me via email at amalia_k@gmx.de.
 
 <!---
 Ama-kon/Ama-kon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
