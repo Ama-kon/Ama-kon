@@ -6,7 +6,7 @@
 🌱 I'm committed to continuous learning and growing my skill set.  
 💼 I bring a blend of creativity and a strong drive to learn.  
 💞️ I'm eager to collaborate with others in the web development community to gain experience and knowledge.  
-📫 Want to get in touch? Feel free to reach out to me via email at amalia_k@gmx.de.
+📫 Want to get in touch? Feel free to reach out to me via email at mail@amalia-konstantinidou.de.
 <!---
 Ama-kon/Ama-kon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
