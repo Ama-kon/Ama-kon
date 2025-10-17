@@ -2,10 +2,14 @@
 
 # 👋 Hey there, I'm Amalia!
 
-👀 I am currently living in Ludwigshafen, Germany.  
-🌱 I'm committed to continuous learning and growing my skill set.  
-💼 I bring a blend of creativity and a strong drive to learn.  
-💞️ I'm eager to collaborate with others in the web development community to gain experience and knowledge.  
+A developer with a passion for frontend and a knack for CRM.
+
+🌟 I work with React, Angular, and TypeScript and love bringing designs to life.
+
+🎨 Besides frontend development, I also work with Dynamics 365 CRM using C#.
+
+🤝 I provide support as a Technical Consultant for both technical and business-related topics.
+
 📫 Want to get in touch? Feel free to reach out to me via email at mail@amalia-konstantinidou.de.
 <!---
 Ama-kon/Ama-kon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
